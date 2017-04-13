@@ -1,0 +1,2 @@
+*.hsd filter=lfs diff=lfs merge=lfs -text
+*.hdf filter=lfs diff=lfs merge=lfs -text
